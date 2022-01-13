@@ -2,4 +2,4 @@
 
 This is an example 1 for Data Science class.
 
-This is mine..
+This is mine....
